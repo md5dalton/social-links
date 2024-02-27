@@ -30,7 +30,7 @@ export default () => (
             <h1 className="text-3xl font-bold">Mpiti Majara</h1>
             <h2 className="text-lg text-green font-semibold">Maseru, Lesotho</h2>
         </div>
-        <p>"Front-end developer and avid reader"</p>
+        <p>"Building the web, one line at a time."</p>
         <UList
             className="grid gap-4 w-full"
             items={links}
