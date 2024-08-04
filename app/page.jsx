@@ -27,7 +27,7 @@ export default () => (
             className="rounded-full"
         />
         <div>
-            <h1 className="text-3xl font-bold">Mpiti Majara</h1>
+            <h1 className="text-3xl font-bold">Mjr Mpiti</h1>
             <h2 className="text-lg text-green font-semibold">Maseru, Lesotho</h2>
         </div>
         <p>"Building the web, one line at a time."</p>
